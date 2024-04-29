@@ -4,6 +4,7 @@
 This project focuses on analyzing customer churn data for an E-commerce platform. Churn prediction is critical for the business to understand the attributes leading to customer turnover and to develop strategies to retain valuable customers.
 
 ## Dataset Description
+Dataset link: [E-commerce Dataset](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
 The dataset used in this analysis is `ecommerce.csv`, which contains various features related to customer behavior and their churn status. Here's a brief overview of some of the key features:
 
 - `CustomerID`: Unique identifier for the customer
